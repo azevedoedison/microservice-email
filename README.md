@@ -1,1 +1,1 @@
-# microservice-mail
+# microservice-email
